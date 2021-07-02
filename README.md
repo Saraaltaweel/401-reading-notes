@@ -9,3 +9,4 @@
 | Read3     | [Read3](https://saraaltaweel.github.io/401-reading-notes/read3) |
 | Read4     | [Read4](https://saraaltaweel.github.io/401-reading-notes/read4) |
 | Read5     | [Read5](https://saraaltaweel.github.io/401-reading-notes/read5) |
+| Read6     | [Read6](https://saraaltaweel.github.io/401-reading-notes/read6) |
