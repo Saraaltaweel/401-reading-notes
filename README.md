@@ -11,3 +11,4 @@
 | Read5     | [Read5](https://saraaltaweel.github.io/401-reading-notes/read5) |
 | Read6     | [Read6](https://saraaltaweel.github.io/401-reading-notes/read6) |
 | Read7     | [Read7](https://saraaltaweel.github.io/401-reading-notes/read7) |
+| Read8     | [Read8](https://saraaltaweel.github.io/401-reading-notes/read8) |
