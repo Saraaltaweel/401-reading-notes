@@ -28,3 +28,13 @@
 ### Routing middleware :
 *Router-level middleware works in the same way as application-level middleware, except it is bound to an instance of express.Router().*
 
+## Express Routing
+
+### Routing Types:
+- Route methods: as GET method route POST method route
+- Route paths :in combination with a request method, define the endpoints at which requests can be made.
+- Route parameters: are named URL segments that are used to capture the values specified at their position in the URL.
+- Route handlers: You can provide multiple callback functions that behave like middleware to handle a request.
+- Response methods:The methods on the response object (res)
+- app.route() :used to create chainable route handlers for a route path Because the path is specified at a single location, creating modular routes is helpful, as is reducing redundancy and typos
+- express.Router: class to create modular, mountable route handlers.
