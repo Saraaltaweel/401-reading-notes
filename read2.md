@@ -20,3 +20,15 @@
   *refer to Representational State Transfer , it's an architectural style that defines aset of recommendations for designing loosely coupled applications that use the HTTP protocol for data transmission.*
 
  *SOAP and REST are two API styles that approach the question of data transmission from a different point of view*
+
+ ### Web Server:
+ *is software and hardware that uses HTTP (Hypertext Transfer Protocol) and other protocols to respond to client requests made over the World Wide Web.*
+
+ ### Express:
+ *is a free and open-source web application framework for Node. js. It is used for designing and building web applications quickly and easily. Web applications are web apps that you can run on a web browser.*
+
+ ### Routing:
+*is a mechanism where HTTP requests are routed to the code that handles them. To put it simply, in the Router you determine what should happen when a user visits a certain page*
+
+ ### WRRC:
+ *web request/response cycle traces how a user's request flows through the app.*
