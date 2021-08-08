@@ -24,3 +24,4 @@
 | Read18     | [Read18](https://saraaltaweel.github.io/401-reading-notes/read18) |
 | Read19     | [Read19](https://saraaltaweel.github.io/401-reading-notes/read19) |
 | Read26     | [Read26](https://saraaltaweel.github.io/401-reading-notes/read26) |
+| Read27     | [Read27](https://saraaltaweel.github.io/401-reading-notes/read27) |
