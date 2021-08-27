@@ -38,5 +38,6 @@
 | Read38     | [Read38](https://saraaltaweel.github.io/401-reading-notes/read38) |
 | Read39     | [Read39](https://saraaltaweel.github.io/401-reading-notes/read39) |
 | Read41     | [Read41](https://saraaltaweel.github.io/401-reading-notes/read41) |
+| Read42     | [Read42](https://saraaltaweel.github.io/401-reading-notes/read42) |
 
 
